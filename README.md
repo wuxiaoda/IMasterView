@@ -1,2 +1,3 @@
-# IMasterView
-Investment Master Interview
+## 投资大师访谈集
+
+本项目收集了价值投资大师的重要演讲和访谈记录。
